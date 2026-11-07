@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\Company\Objektum\Jobs\Job_583\Exercises\Ada\Answers\Ada83AccessTypes\src\Ada83_Access_Types_Exercise_1.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 21" >
+      <vfs_project />
+      <vfs_file>D:\Company\Objektum\Jobs\Job_583\Exercises\Ada\Answers\Ada83AccessTypes\src\ada83_access_types_exercise_1.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 5" >
+      <vfs_project />
+      <vfs_file>D:\Company\Objektum\Jobs\Job_583\Exercises\Ada\Answers\Ada83AccessTypes\src\ada83_access_types_exercise_1.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\Company\Objektum\Jobs\Job_583\StudentMaterial\Ada95ExerciseTemplates\Ada83AccessTypes\ada83_access_types.gpr</vfs_project>
+      <vfs_file>D:\Company\Objektum\Jobs\Job_583\StudentMaterial\Ada95ExerciseTemplates\Ada83AccessTypes\src\Ada83_Access_Types_Exercise_2.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 31" >
+      <vfs_project>D:\Company\Objektum\Jobs\Job_583\StudentMaterial\Ada95ExerciseTemplates\Ada83AccessTypes\ada83_access_types.gpr</vfs_project>
+      <vfs_file>D:\Company\Objektum\Jobs\Job_583\StudentMaterial\Ada95ExerciseTemplates\Ada83AccessTypes\src\ada83_access_types_exercise_1.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 28" >
+      <vfs_project>D:\Company\Objektum\Jobs\Job_583\StudentMaterial\Ada95ExerciseTemplates\Ada83AccessTypes\ada83_access_types.gpr</vfs_project>
+      <vfs_file>D:\Company\Objektum\Jobs\Job_583\StudentMaterial\Ada95ExerciseTemplates\Ada83AccessTypes\src\ada83_access_types_exercise_1.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\Company\Objektum\Jobs\Job_583\StudentMaterial\Ada95ExerciseTemplates\Ada83AccessTypes\ada83_access_types.gpr</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 6" line=" 1" >
+      <vfs_project>D:\Company\Objektum\Jobs\Job_583\StudentMaterial\Ada95ExerciseTemplates\Ada83AccessTypes\ada83_access_types.gpr</vfs_project>
+      <vfs_file>D:\Company\Objektum\Jobs\Job_583\StudentMaterial\Ada95ExerciseTemplates\Ada83AccessTypes\src\ada83_access_types_exercise_1.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

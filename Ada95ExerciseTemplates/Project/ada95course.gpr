@@ -1,0 +1,8 @@
+project Ada95Course is
+
+   for Source_Dirs use ("../**");
+   for Object_Dir use "obj";
+   for Main use ("adamain.adb");
+
+end Ada95Course;
+

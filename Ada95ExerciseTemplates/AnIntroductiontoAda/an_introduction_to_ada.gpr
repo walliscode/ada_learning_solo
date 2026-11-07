@@ -1,0 +1,8 @@
+project An_Introduction_To_Ada is
+
+   for Source_Dirs use ("src");
+   for Object_Dir use "obj";
+   for Main use ("An_Introduction_To_Ada_Exercise_1.adb", "An_Introduction_To_Ada_Exercise_2.adb", "An_Introduction_To_Ada_Exercise_3.adb", "An_Introduction_To_Ada_Exercise_4.adb");
+
+end An_Introduction_To_Ada;
+

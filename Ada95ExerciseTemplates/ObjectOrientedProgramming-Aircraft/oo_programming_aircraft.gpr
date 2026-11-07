@@ -1,0 +1,8 @@
+project Oo_Programming_Aircraft is
+
+   for Source_Dirs use ("src");
+   for Object_Dir use "obj";
+   for Main use ("OOP_Exercise_1_Main.adb");
+
+end Oo_Programming_Aircraft;
+

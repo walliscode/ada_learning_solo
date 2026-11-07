@@ -1,0 +1,16 @@
+project Packages is
+
+   for Source_Dirs use ("src");
+   for Object_Dir use "obj";
+   for Main use ("Packages_Exercise_1.adb", "Packages_Exercise_2.adb", "Packages_Exercise_3.adb");
+
+   package Compiler is
+      for Switches ("ada") use ("-g");
+   end Compiler;
+
+   package Linker is
+      for Switches ("ada") use ("-g");
+   end Linker;
+
+end Packages;
+
