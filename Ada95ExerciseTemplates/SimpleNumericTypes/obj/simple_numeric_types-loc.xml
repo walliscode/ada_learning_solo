@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>D:\Company\Objektum\Jobs\Job_598\StudentMaterial\Ada95ExerciseTemplates\SimpleNumericTypes\simple_numeric_types.gpr</vfs_file>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>D:\Company\Objektum\Jobs\Job_598\StudentMaterial\Ada95ExerciseTemplates\SimpleNumericTypes\simple_numeric_types.gpr</vfs_project>
+      <vfs_file>D:\Company\Objektum\Jobs\Job_598\StudentMaterial\Ada95ExerciseTemplates\SimpleNumericTypes\src\Simple_Numeric_Types_Exercise_1.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >D:\Company\Objektum\Jobs\Job_597\StudentMaterial\Ada95ExerciseTemplates\SimpleNumericTypes\simple_numeric_types.gpr</vfs_file>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >D:\Company\Objektum\Jobs\Job_597\StudentMaterial\Ada95ExerciseTemplates\SimpleNumericTypes\simple_numeric_types.gpr</vfs_project>
+      <vfs_file >D:\Company\Objektum\Jobs\Job_597\StudentMaterial\Ada95ExerciseTemplates\SimpleNumericTypes\src\Simple_Numeric_Types_Exercise_1.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >D:\Company\Objektum\Jobs\Job_586\StudentMaterial\Ada95ExerciseTemplates\SimpleNumericTypes\simple_numeric_types.gpr</vfs_file>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >D:\Company\Objektum\Jobs\Job_586\StudentMaterial\Ada95ExerciseTemplates\SimpleNumericTypes\simple_numeric_types.gpr</vfs_project>
+      <vfs_file >D:\Company\Objektum\Jobs\Job_586\StudentMaterial\Ada95ExerciseTemplates\SimpleNumericTypes\src\Simple_Numeric_Types_Exercise_1.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >D:\Company\Objektum\Jobs\Job_583\StudentMaterial\Ada95ExerciseTemplates\SimpleNumericTypes\simple_numeric_types.gpr</vfs_file>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >D:\Company\Objektum\Jobs\Job_583\StudentMaterial\Ada95ExerciseTemplates\SimpleNumericTypes\simple_numeric_types.gpr</vfs_project>
+      <vfs_file >D:\Company\Objektum\Jobs\Job_583\StudentMaterial\Ada95ExerciseTemplates\SimpleNumericTypes\src\Simple_Numeric_Types_Exercise_1.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

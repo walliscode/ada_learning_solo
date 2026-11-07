@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Locations>
+  <Project>
+    <vfs_file>D:\Company\Objektum\Jobs\Job_583\StudentMaterial\Ada95ExerciseTemplates\Ada83Tasking\ada83_tasking.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\Company\Objektum\Jobs\Job_583\StudentMaterial\Ada95ExerciseTemplates\Interfacing\src\interfacing_Exercise_1.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\Company\Objektum\Jobs\Job_583\StudentMaterial\Ada95ExerciseTemplates\Ada83AccessTypes\src\Ada83_Access_Types_Exercise_1.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>D:\Company\Objektum\Jobs\Job_583\StudentMaterial\Ada95ExerciseTemplates\Ada83Tasking\ada83_tasking.gpr</vfs_project>
+      <vfs_file>D:\Company\Objektum\Jobs\Job_583\StudentMaterial\Ada95ExerciseTemplates\Ada83Tasking\src\Ada83_Tasking_Exercise_1.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

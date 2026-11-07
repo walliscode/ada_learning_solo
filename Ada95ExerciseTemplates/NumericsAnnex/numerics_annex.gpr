@@ -1,0 +1,8 @@
+project Numerics_Annex is
+
+   for Source_Dirs use ("src");
+   for Object_Dir use "obj";
+   for Main use ("Complex_Numbers_Test_1.adb", "Complex_Numbers_Test_2.adb", "Complex_Numbers_Test_3.adb", "Random_Numbers_Exercise_1.adb");
+
+end Numerics_Annex;
+

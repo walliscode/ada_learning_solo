@@ -1,0 +1,9 @@
+project Simple_Numeric_Types is
+
+   for Source_Dirs use ("src");
+   for Object_Dir use "obj";
+   for Main use ("Simple_Numeric_Types_Exercise_1.adb", "Simple_Numeric_Types_Exercise_2.adb", "Simple_Numeric_Types_Exercise_3.adb", "Simple_Numeric_Types_Exercise_4.adb", "Simple_Numeric_Types_Exercise_5.adb", 
+      "Simple_Numeric_Types_Exercise_6.adb", "Simple_Numeric_Types_Exercise_7.adb", "Simple_Numeric_Types_Exercise_8.adb");
+
+end Simple_Numeric_Types;
+

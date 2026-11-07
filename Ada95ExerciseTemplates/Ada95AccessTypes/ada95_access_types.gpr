@@ -1,0 +1,8 @@
+project Ada95_Access_Types is
+
+   for Source_Dirs use ("src");
+   for Object_Dir use "obj";
+   for Main use ("Ada95_Access_Types_Exercise_1.adb", "Ada95_Access_Types_Exercise_2.adb", "Ada95_Access_Types_Exercise_3.adb");
+
+end Ada95_Access_Types;
+
